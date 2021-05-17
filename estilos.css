@@ -1,10 +1,17 @@
 body{
     background-color:rgb(243, 243, 243);
+    height: 100%;
+    box-sizing: border-box;
 }
 
+main {
+    width: 100%;
+    height:max-content;
+}
 .texto-footer {
-    width: 80%;
+    width: 50%;
+    height: 100%;
     text-align: end;
     float: right;
-    vertical-align: middle;
+    vertical-align:middle;
 }
