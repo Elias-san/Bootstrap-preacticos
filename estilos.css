@@ -1,0 +1,10 @@
+body{
+    background-color:rgb(243, 243, 243);
+}
+
+.texto-footer {
+    width: 80%;
+    text-align: end;
+    float: right;
+    vertical-align: middle;
+}
